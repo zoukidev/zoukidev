@@ -1,6 +1,3 @@
-### 👋 Welcome on my profile
-<br>
-
 ![Zoukilama GitHub stats](https://github-readme-stats.vercel.app/api?username=zoukidev&hide=contribs,prs&count_private=true&show_icons=true)
 
 <h2>Latest Tweets</h2>
