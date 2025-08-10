@@ -3,7 +3,7 @@
   Passionate about full-stack development, web development, and computer science, I also have a particular interest in ethical hacking. Curious and eager to learn, I enjoy exploring new technologies and taking on challenges.
 </h3>
 
-- 🔭 I’m currently working on [JeuxSensuels.fr](https://jeuxsensuels.fr/)
+- 🔭 I’m currently working on [rendezvouscheveux.fr](https://rendezvouscheveux.fr/)
 
 - 👨‍💻 All of my projects are available at [MelvinCN Website](https://melvincn.com/)
 
